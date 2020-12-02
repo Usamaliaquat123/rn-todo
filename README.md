@@ -5,6 +5,6 @@
 - clone
 - `yarn && npx react-native run-android`
 
-#### Social media cli
+#### feel free to contact me
 
 `npx usamaliaquat`
